@@ -1,8 +1,8 @@
 1. Setup/installation instructions
-macOs
-node version: v6.7.0
-npm install
-npm start
+    1. macOs
+    2. node version: v6.7.0
+    3. npm install
+    4. npm start
 
 2. A quick (1 page) description of your solution
 
